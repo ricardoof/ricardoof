@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricardoof
 - 👀 I’m interested in video games and programming
-- 🌱 I’m currently studing Computer Science at Federal University  of Viçosa.
+- 🌱 I’m currently studying Computer Science at Federal University  of Viçosa.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
