@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ricardoof
-- 👀 I’m interested in video games and programming
-- 🌱 I’m currently studying Computer Science at Federal University  of Viçosa.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá, sou Ricardo Ferreira, estudante de Ciência da Computação na Universidade Federal de Viçosa no 3° período com especialidade em C++, HTML e CSS.
 
 <!---
 ricardoof/ricardoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
