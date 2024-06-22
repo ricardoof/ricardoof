@@ -1,10 +1,11 @@
-Hello, My name is Ricardo Ferreira, I am a Computer Science student at the Federal University of Viçosa in the 3rd period with a specialty in HTML and CSS.
+Hello, my name is Ricardo Ferreira, I am a Computer Science student at the Federal University of Viçosa (UFV), I am in the 3rd period specializing in HTML and CSS, I am currently reinforcing my studies in JavaScript and React.
 
 ## Tools and Technologie
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 </div>
 <br>
 <div>
