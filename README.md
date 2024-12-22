@@ -1,4 +1,4 @@
-Hello, my name is Ricardo Ferreira, I am a Computer Science student at the Federal University of Viçosa (UFV), I am in the 3rd period specializing in HTML and CSS, I am currently reinforcing my studies in JavaScript and React.
+Hello, my name is Ricardo de Oliveira Ferreira, I'm 28 years old and I'm from Itaocara - RJ, I study Computer Science at the Federal University of Viçosa (UFV), I'm in the 4th period, I have knowledge in C++, HTML, CSS, JavaScript, React and intermediate English.
 
 ## Tools and Technologie
 <div>
@@ -6,6 +6,7 @@ Hello, my name is Ricardo Ferreira, I am a Computer Science student at the Feder
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
 <br>
 <div>
