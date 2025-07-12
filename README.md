@@ -1,13 +1,19 @@
-Hello, my name is Ricardo de Oliveira Ferreira, I'm 28 years old and I'm from Itaocara - RJ, I study Computer Science at the Federal University of Viçosa (UFV), I'm in the 5th period, I have knowledge in C++, HTML, CSS, JavaScript, React and intermediate English.
+# Olá, eu sou o Ricardo Ferreira! 👋
 
-## Tools and Technologie
+Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estudante de graduação em Ciência da Computação na Universidade Federal de Viçosa (UFV), estou no 6º período, tenho conhecimentos em C++, HTML, CSS, JavaScript, React, Android e inglês intermediário. Atualmente estou focado em melhorar minhas habilidade no front-end que é uma das minhas paixões na computação.
+
+## 🚀 Tecnologias e ferramentas
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" />
 </div>
 <br>
 <div>
@@ -16,11 +22,13 @@ Hello, my name is Ricardo de Oliveira Ferreira, I'm 28 years old and I'm from It
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## How to reach me
+## 📫 Como me encontrar
 <div>
+  <a href="https://x.com/rricardoof" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rricardoferreiraa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ricardoferreira4496@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardoof" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ricardoferreira4496@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardoof" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://bsky.app/profile/ricardoof.bsky.social" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank"></a>
 </div>
 
 <!---
