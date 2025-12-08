@@ -1,6 +1,6 @@
 # Olá, eu sou o Ricardo Ferreira! 👋
 
-Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estudante de graduação em Ciência da Computação na Universidade Federal de Viçosa (UFV), estou no 6º período, tenho conhecimentos em C++, HTML, CSS, JavaScript, React, Android e inglês intermediário. Atualmente estou focado em melhorar minhas habilidade no front-end que é uma das minhas paixões na computação.
+Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estudante de graduação em Ciência da Computação na Universidade Federal de Viçosa (UFV), estou no 6º período, tenho conhecimentos em C++, HTML, CSS, JavaScript, React, Android e inglês intermediário. Atualmente estou focado em melhorar minhas habilidade no front-end que é uma das minhas paixões na computação e atuo em uma iniciação científica utilizando a linguagem funcional Elixir e o framework Phoenix para melhorar o desempenho e reduzir o custo de servidor do software da empresa MedYes.
 
 ## 🚀 Tecnologias e ferramentas
 <div>
@@ -13,6 +13,8 @@ Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estud
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" width="40" height="40" />
 </div>
 <br>
 <div>
