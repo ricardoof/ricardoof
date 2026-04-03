@@ -1,11 +1,12 @@
 # Olá, eu sou o Ricardo Ferreira! 👋
 
-Tenho 30 anos, sou natural de Itaocara - RJ e atualmente moro em Viçosa - MG. Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) no 7º período e Desenvolvedor Full Stack, apaixonado por criar softwares eficientes, escaláveis e com impacto real no negócio.
+Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) no 7º período e Desenvolvedor Full Stack, apaixonado por criar softwares eficientes, escaláveis e com impacto real no negócio.
 
-- 🔭 **Atualmente trabalhando em:** Uma Iniciação Científica utilizando **Elixir** e **Phoenix** para otimizar o desempenho e reduzir os custos de infraestrutura de servidores do software da empresa MedYes.
-- 🌱 **Foco de estudo:** Engenharia de software, arquitetura de software, resiliência, alta disponibilidade e o ecossistema funcional da máquina virtual BEAM.
-- 🤝 **Impacto social:** Ministro aulas de letramento e segurança digital para pessoas idosas em um projeto de extensão (UNAPI/UFV), e atuo na gestão do projeto Aulão Solidário, o que me ensina diariamente sobre empatia e comunicação clara.
-- 💬 **Idiomas:** Inglês intermediário, com foco em leitura técnica.
+- 🔭 **Atualmente:** Focado no ecossistema funcional. Na minha Iniciação Científica, utilizo **Elixir** e **Phoenix** para resolver desafios reais de engenharia, atuando na otimização de desempenho e na redução de custos de infraestrutura para a empresa MedYes.
+- 🌱 **Foco de Estudo:** Engenharia de Software, arquitetura, resiliência e alta disponibilidade.
+- 🤝 **Impacto Social:** Acredito na tecnologia como ferramenta de mudança. Atuo em projetos de extensão ensinando educação digital para idosos e na gestão do Aulão Solidário, desenvolvendo comunicação clara e empatia.
+- 💬 **Idiomas:** Inglês intermediário (leitura técnica e comunicação).
+- ✉️ **Objetivo:** Busco oportunidades de estágio ou projetos colaborativos para aplicar meus conhecimentos em **engenharia e arquitetura de software**, boas práticas e agregar valor ao negócio.
 
 ## 🚀 Tecnologias e ferramentas
 <div>
