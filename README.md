@@ -1,6 +1,11 @@
 # Olá, eu sou o Ricardo Ferreira! 👋
 
-Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estudante de graduação em Ciência da Computação na Universidade Federal de Viçosa (UFV), estou no 6º período, tenho conhecimentos em C++, HTML, CSS, JavaScript, React, Android e inglês intermediário. Atualmente estou focado em melhorar minhas habilidade no front-end que é uma das minhas paixões na computação e atuo em uma iniciação científica utilizando a linguagem funcional Elixir e o framework Phoenix para melhorar o desempenho e reduzir o custo de servidor do software da empresa MedYes.
+Tenho 30 anos, sou natural de Itaocara - RJ e atualmente moro em Viçosa - MG. Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) no 7º período e Desenvolvedor Full Stack, apaixonado por criar softwares eficientes, escaláveis e com impacto real no negócio.
+
+- 🔭 **Atualmente trabalhando em:** Uma Iniciação Científica utilizando **Elixir** e **Phoenix** para otimizar o desempenho e reduzir os custos de infraestrutura de servidores do software da empresa MedYes.
+- 🌱 **Foco de estudo:** Engenharia de software, arquitetura de software, resiliência, alta disponibilidade e o ecossistema funcional da máquina virtual BEAM.
+- 🤝 **Impacto social:** Ministro aulas de letramento e segurança digital para pessoas idosas em um projeto de extensão (UNAPI/UFV), e atuo na gestão do projeto Aulão Solidário, o que me ensina diariamente sobre empatia e comunicação clara.
+- 💬 **Idiomas:** Inglês intermediário, com foco em leitura técnica.
 
 ## 🚀 Tecnologias e ferramentas
 <div>
@@ -8,9 +13,6 @@ Tenho 29 anos e sou de Itaocara - RJ, atualmente moro em Viçosa - MG, sou estud
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="40" height="40" />
