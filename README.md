@@ -1,20 +1,24 @@
+<div align="center">
+    
 # Hi there, I'm Ricardo Ferreira! 👋
-
+ 
 **Computer Science Student @ UFV | Full Stack Developer | Elixir Enthusiast**
+ 
+<a href="https://ricardoferreira.fly.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-ricardoferreira.fly.dev-4B275F?style=for-the-badge" alt="Portfolio"></a>
 
-### 🌐 Website
-https://ricardoferreira.fly.dev/
+</div>
 
-I am a passionate developer focused on building scalable, efficient, and resilient software. Currently in my 8th period of Computer Science at the [Universidade Federal de Viçosa (UFV)](https://www.ufv.br), I am driven by the desire to solve real-world engineering challenges with tangible business impact.
+I'm a Full Stack Developer and Computer Science student in my 8th semester at the [Universidade Federal de Viçosa (UFV)](https://www.ufv.br). Most of my recent work has been in **Elixir**, with **Phoenix** and **Phoenix LiveView**, and I'm currently studying React and other technologies to broaden my stack. What interests me most in software engineering is how systems behave under load, and how to keep code readable and easy to evolve as it grows.
 
 ---
-
+ 
 ### 🚀 About Me
-
-- 🔭 **Current Focus:** Deep diving into the functional ecosystem. In my academic research, I leverage **Elixir** and **Phoenix** to optimize performance and reduce infrastructure costs.
-- 🌱 **Areas of Interest:** Software Engineering, System Architecture, High Availability, and Resilience.
-- 🤝 **Social Impact:** I strongly believe in technology as a tool for change. I actively volunteer in extension projects teaching digital literacy to the elderly, which has helped me develop strong communication and empathy skills.
-- ✉️ **Goals:** Seeking internship opportunities or collaborative projects where I can apply my knowledge in software architecture, follow best practices, and deliver real value.
+ 
+- **Current Focus:** My undergraduate thesis is on code quality, titled *Creation and Validation of Catalogs of Code Smells and Refactorings for Phoenix*. Catalogs like this already exist for other technologies, but not yet for Phoenix, and my work aims to fill that gap.
+- **Research:** In a one-year undergraduate research project (CNPq/PIBIC), I reimplemented 144 REST API endpoints and core screens of MedYes's home care management system to evaluate its migration from JavaScript to Elixir. In stress tests, the Elixir version handled up to 4.47× more requests than the original. This work became a paper at **SE4FP 2026**: [*From JavaScript to Elixir: Lessons from Reimplementing an Industrial Home Care System*](https://sol.sbc.org.br/index.php/se4fp/article/view/46175).
+- **Areas of Interest:** Performance, Scalability, Software Architecture, and Code Quality.
+- **Social Impact:** I volunteer in a university extension project teaching digital literacy and online safety to older adults. Explaining technology to people with little exposure to it has taught me to communicate technical ideas clearly and patiently.
+- **Goals:** Looking for internships or collaborative projects in software development. I'm not tied to a single stack and I'm happy to work with whatever technologies the team uses.
 
 ---
 
